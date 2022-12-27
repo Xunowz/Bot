@@ -42,60 +42,60 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],//
-['62882016155766', '𝙭𝙧𝙗𝙤𝙩', true]
+['6289507956400', 'Xunow', true],//
+['6289504137993', 'BAISA-TM', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorownv2 = '62882016155766'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
-global.nomorwa = '0'
+global.nomorbot = '6289504137993'
+global.nomorown = '6289507956400'
+global.nomorownv2 = '6289504137993'
+global.nomorown1 = '6289507956400'
+global.nomorown2 = '6289504137993'
+global.nomorwa = '6289507956400'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.author = 'AbiDev'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩'
-global.wm = '𝙭𝙧𝙗𝙤𝙩'
+global.gcname = 'Baisa'//nama group kalian
+global.author = 'Xunow'
+global.namebot = 'BAISA-TM'
+global.wm = 'Baisa'
 global.media = 'https://telegra.ph/file/b9c38c34238271d29e86e.jpg'
-global.watermark = wm
+global.watermark = Eweuw
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://wa.me/6288232154376'
+global.wame = 'https://wa.me/6289507956400'
 global.alllink = `https://youtube.com`
-global.wm2 = ' 𝙭𝙧𝙗𝙤𝙩 '
+global.wm2 = ' BAISA-TM '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙭𝙧𝙗𝙤𝙩`
-global.stickpack = 'Created by: '
-global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩`
+global.titlebot = `BAISA-TM`
+global.stickpack = 'Created by: Xunow'
+global.stickauth = `© BAISA`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '#𝐗𝐑𝐚𝐳'
-global.nameown2 = '𝙭𝙧𝙗𝙤𝙩'
+global.nameown1= '#Xunow'
+global.nameown2 = 'BAISA-TM'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/abityru'//Instagram klian
-global.sgh = 'https://github.com/AbiDev11' //github
-global.tautanwa = 'https://wa.me/6288232154376'
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
+global.sig = 'https://instagram.com/baisa_tm'//Instagram klian
+global.sgh = 'https://github.com/Xunowz' //github
+global.tautanwa = 'https://wa.me/6289507956400'
+global.sgc = 'https://chat.whatsapp.com/B7qKc6u6c7j5BV5mjHBTcj' //group whatsapp
 global.syt = '-' //youtube
-global.sytv = 'https://youtu.be/lN-0jnuK2'//link video yt
+global.sytv = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0888232154376'
+global.pdana = '089507956400'
 global.povo = '-'
-global.pgopay = '0888232154376'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
 global.ppulsa = '-'
 global.ppulsa2 = '-'
@@ -319,9 +319,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/abityru24"
+global.urlnya = "https://instagram.com/baisa_tm"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0882 3215 4376'
+global.phn = '0895 0795 6400'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
